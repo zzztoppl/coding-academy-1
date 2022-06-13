@@ -33,4 +33,4 @@
 
 ---
 
-# tutaj wstaw swoje imię: Ola
+# tutaj wstaw swoje imię: Olla
